@@ -1,2 +1,2 @@
 # Connect-Four
-Plays Connect Four as Single Player or AI
+Plays Connect Four in Single Player Mode with AI or Play as Multiplayer.
