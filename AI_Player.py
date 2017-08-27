@@ -5,7 +5,7 @@
 #
 
 import random
-from ps10pr3 import *
+from Game_Setup import *
 
 class AIPlayer(Player):
     def __init__(self, checker, tiebreak, lookahead):
